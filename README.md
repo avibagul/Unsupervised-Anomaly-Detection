@@ -6,7 +6,7 @@ https://www.kaggle.com/avibagul80/air-quality-dataset
 
 Software Requirements
 
-<1> Python 3
+<1> Python 3 \n
   <2> Python notebook (jupyter/colab)
   <3> Libraries
 
