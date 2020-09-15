@@ -11,4 +11,4 @@ Software Requirements
 <3> Libraries.
 
 
-Please give me feedback if you appriciate my attemp to address the unsupervised anomaly detection problems problems.
+Please give me feedback if you like my attemp to address the unsupervised anomaly detection problems.
